@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm **Shivanshu Mishra**</h1>
+<h1 align="center">Hi, I'm Shivanshu Mishra </h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryomensukuna2003&label=Profile%20views&color=000000&style=flat-square" alt="ryomensukuna2003" /> </p>
 
-- 🌱 I’m currently learning **Basic Web development and C++**
+- I’m currently learning **Basic Web development and C++**
 
-- 📫 How to reach me **mshivanshu1264@gmail.com**
+- How to reach me **mshivanshu1264@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
