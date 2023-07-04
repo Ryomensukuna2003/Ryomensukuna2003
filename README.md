@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryomensukuna2003&label=Profile%20views&color=000000&style=flat-square" alt="ryomensukuna2003" /> </p>
 
-- I’m currently learning **Basic Web development and C++**
+- I’m currently learning **MERN STACK**
 
 - How to reach me **mshivanshu1264@gmail.com**
 
