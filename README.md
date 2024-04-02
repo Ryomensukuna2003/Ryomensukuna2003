@@ -43,7 +43,7 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Connect+with+me" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Connect+with+me" alt="Typing SVG" /></a>
   <p>
     <a href="https://linkedin.com/in/shivanshu-" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanshu-" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/mshivanshu1264" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mshivanshu1264" height="30" width="40" /></a>
