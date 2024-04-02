@@ -2,14 +2,14 @@
     <p align="center">
       <samp>
             <b>
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello+There!+I'm+Shivanshu" alt="Typing SVG" /></a>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Hello+There!+I'm+Shivanshu" alt="Typing SVG" /></a>
             <br>
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Passionate+Web+developer+from+India" alt="Typing SVG" /></a>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Passionate+Web+developer+from+India" alt="Typing SVG" /></a>
             </br>
         <br>
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC83E3&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%E3%80%8C%E6%9C%AC+%E7%89%A9+%E3%81%AE+%E6%9F%94+%E8%A1%93+%E3%82%92+%E8%A6%8B+%E3%81%9B+%E3%81%A6+%E3%82%84+%E3%82%8B%E3%80%8D" alt="Typing SVG" /></a>
         <br>
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&random=false&width=435&separator=%3C&lines=Languages+and+Tools+;)" alt="Typing SVG" /></a>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=700&separator=%3C&lines=Languages+and+Tools+;)" alt="Typing SVG" /></a>
         <br>
 
 <div align="center">
