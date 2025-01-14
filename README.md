@@ -1,6 +1,5 @@
 <p align="left"><strong><samp>「</samp></strong></p>
 
-
 <p align="center">
   <samp>
     <b>
@@ -15,9 +14,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC83E3&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%E3%80%8C%E6%9C%AC+%E7%89%A9+%E3%81%AE+%E6%9F%94+%E8%A1%93+%E3%82%92+%E8%A6%8B+%E3%81%9B+%E3%81%A6+%E3%82%84+%E3%82%8B%E3%80%8D" alt="Japanese Text" />
       </a>
       <br><br>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Languages+and+Tools" alt="Languages and Tools" />
-      </a>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Languages+and+Tools+I+use" alt="Languages and Tools" />
     </b>
   </samp>
 </p>
@@ -37,10 +34,20 @@
 
 <br>
 
+<p align="center">
+  <samp>
+    <b>About Me</b>
+    <br>
+    I'm a third-year Computer Science student, passionate about software development, problem-solving, and creating aesthetic projects. My current focus is building a <strong>Codeforces Visualizer</strong> and exploring <strong>API rate-limiting</strong> with Next.js and Redis. 
+    <br><br>
+    Besides coding, I chill around or watch series/anime.
+  </samp>
+</p>
+
+
 <div align="center">
   <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> 
-    Currently Building
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Currently Building 🛠️" alt="Currently Building" />
   </h3>
   <a href="your-project-link">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryomensukuna2003&repo=API-Rate-Limiting&border_color=BC83E3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=BC83E3" alt="Current Project" />
