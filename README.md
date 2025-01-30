@@ -8,11 +8,6 @@
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=400&lines=Hello+There!+I'm+Shivanshu" alt="Typing SVG" />
         </a>
       </td>
-      <td align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=400&lines=A Computer+Science+%22Student%22" alt="Typing SVG" />
-        </a>
-      </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
