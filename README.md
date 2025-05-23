@@ -1,5 +1,3 @@
-<p align="left"><strong><samp>「</samp></strong></p>
-
 <div align="center">
   <table align="center">
     <tr>
@@ -32,36 +30,20 @@
         <samp>
           <b>About Me</b>
           <br>
-          I'm a third-year Computer Science student, passionate about software development, problem-solving, and creating aesthetic projects. My current focus is building a <strong>Codeforces Visualizer</strong> and exploring <strong>API rate-limiting</strong> with Next.js and Redis. 
+          I'm a fourth-year Computer Science student, passionate about software development, problem-solving, and building clean, user-friendly applications.
           <br><br>
-          Besides coding, I chill around or watch series/anime.
+          I take my work seriously and approach every project with a sense of purpose and professionalism. Outside of coding, I like to unwind — and yes, the seal is my spirit animal.
         </samp>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <h3>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Currently+Building+🛠️" alt="Currently Building" />
-        </h3>
-        <a href="your-project-link">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryomensukuna2003&repo=API-Rate-Limiting&border_color=BC83E3&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=BC83E3" alt="Current Project" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Connect+with+me" alt="Connect with me" />
-        </a>
-        <p>
-          <a href="https://linkedin.com/in/shivanshu-" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-          </a>
-        </p>
-      </td>
+    <td colspan="2" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Connect+with+me" alt="Connect with me" />
+      <br>
+      <a href="https://linkedin.com/in/shivanshu-" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
     </tr>
   </table>
 </div>
-
-<p align="right"><strong><samp>」</samp></strong></p>
-
