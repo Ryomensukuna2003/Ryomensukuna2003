@@ -21,29 +21,14 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryomensukuna2003&border_radius=10&bg_color=0D1117&text_color=FFFFFF&border_color=BC83E3&title_color=FFFFFF&icon_color=FFFFFF&hide_border=false&hide=html,css&langs_count=4" alt="Most Used Languages" />
-      </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <samp>
-          <b>About Me</b>
+                  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=700&lines=About+me+:+Seal+is+my+spirit+animal+%F0%9F%A6%AD" alt="About me" />
           <br>
-          I'm a fourth-year Computer Science student, passionate about software development, problem-solving, and building clean, user-friendly applications.
-          <br><br>
-          I take my work seriously and approach every project with a sense of purpose and professionalism. Outside of coding, I like to unwind — and yes, the seal is my spirit animal.
         </samp>
       </td>
-    </tr>
-    <tr>
-    <td colspan="2" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=700&lines=Connect+with+me" alt="Connect with me" />
-      <br>
-      <a href="https://linkedin.com/in/shivanshu-" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
     </tr>
   </table>
 </div>
